@@ -1,0 +1,136 @@
+tempo 130
+	pan 47
+	volume 117
+	pan 47
+	volume 117
+	pan 47
+	volume 117
+	an5 112, 36
+	pan 47
+	volume 117
+	wait 36
+	fn5 112, 24
+	wait 36
+	cn5 112, 72
+	wait 72
+	bn4 112, 3
+	wait 3
+	as4 102, 3
+	wait 3
+	an4 87, 3
+	wait 3
+	gs4 73, 3
+	wait 15
+	as5 112, 12
+	wait 12
+	an5 112, 9
+	wait 12
+	as5 112, 36
+	wait 36
+	gn5 112, 24
+	wait 36
+	ds5 112, 72
+	wait 72
+	dn5 112, 3
+	wait 3
+	cs5 98, 3
+	wait 3
+	cn5 88, 3
+	wait 3
+	bn4 76, 3
+	wait 39
+	ds5 112, 12
+	wait 24
+	dn5 112, 12
+	wait 24
+	ds5 112, 12
+	wait 24
+	fn5 112, 12
+	wait 24
+	gn5 112, 12
+	wait 24
+	ds5 112, 24
+	wait 24
+	cn5 112, 24
+	wait 24
+	as4 112, 24
+	wait 24
+	an4 112, 36
+	wait 36
+	as4 112, 24
+	wait 36
+	cn5 112, 72
+	wait 96
+	an5 112, 12
+	wait 12
+	gn5 112, 12
+	wait 12
+	an5 112, 36
+	wait 36
+	fn5 112, 24
+	wait 38
+	cn5 112, 72
+	wait 70
+	bn4 112, 3
+	wait 3
+	as4 93, 3
+	wait 3
+	an4 75, 3
+	wait 3
+	gs4 57, 3
+	wait 15
+	as5 112, 12
+	wait 12
+	an5 112, 9
+	wait 12
+	as5 112, 36
+	wait 36
+	gn5 112, 24
+	wait 36
+	ds5 112, 72
+	wait 72
+	dn5 112, 3
+	wait 3
+	cs5 99, 3
+	wait 3
+	cn5 78, 3
+	wait 3
+	bn4 57, 3
+	wait 39
+	ds5 112, 12
+	wait 24
+	dn5 112, 12
+	wait 24
+	ds5 112, 12
+	wait 24
+	fn5 112, 12
+	wait 24
+	gn5 112, 12
+	wait 24
+	ds5 112, 24
+	wait 24
+	as5 112, 24
+	wait 24
+	gn5 112, 24
+	wait 24
+	an5 112, 24
+	wait 24
+	gn5 112, 12
+	wait 12
+	an5 112, 24
+	wait 24
+	fn5 112, 12
+	wait 12
+	gn5 112, 12
+	wait 24
+	fn5 112, 48
+	wait 96
+	jump _command_10
+	wait 192
+	pan 47
+	volume 117
+	prg 57
+	pan 47
+	volume 117
+	prg 57
+	fin
